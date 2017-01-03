@@ -1,2 +1,2 @@
 # usermanager-maven
-上传测试
+删除测试
